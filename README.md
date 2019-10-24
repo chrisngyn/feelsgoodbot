@@ -7,3 +7,6 @@ Sometimes the course of life can be overwhelming, and you forget to do basic eve
 In your Gemfile, make sure you have **require 'twitter'** and remember to run the command **gem install twitter**.  
   
 **twitterBot.txt** is where you load your tweets onto, after it grabs a tweet it will append the word "TWEETED" at the end of the line so that it doesn't tweet the same line again.
+
+# Follow me
+Bot is up and running at twitter.com/feelsgoodbot
