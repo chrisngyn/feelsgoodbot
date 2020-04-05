@@ -1,12 +1,8 @@
-# feelsgoodman-twitter-bot
-Sometimes the course of life can be overwhelming, and you forget to do basic everyday tasks like remembering to eat breakfast, to take out the trash, to floss your teeth, and more. Everyday my bot (@feelsgoodbot) will send out a tweet to make sure you remember to live your best life!
-
-# Setup
-**tokens.txt** is where you add your four API keys.  
+# feelsgoodbot :)
+Twitter bot (@feelsgoodbot) that automatically tweets something sweet daily at 9:00am EST.  
   
-In your Gemfile, make sure you have **require 'twitter'** and remember to run the command **gem install twitter**.  
+## Setup
+**tokens.txt** is where you add your environment variables. In your Gemfile, make sure you have **gem 'twitter'**, **gem 'mongo'** and be sure to run the command **gem bundle install**.  
   
-**twitterBot.txt** is where you load your tweets onto, after it grabs a tweet it will append the word "TWEETED" at the end of the line so that it doesn't tweet the same line again.
-
-# Follow me
-Bot is up and running at twitter.com/feelsgoodbot
+## Follow me!
+Bot is currently up and running at twitter.com/feelsgoodbot :)
